@@ -28,7 +28,6 @@
 # All rights reserved 2023 Chippewa Limited Liability Co.
 #
 ################################################################################
-#!/bin/bash
 
 # Run checkjssconnection to get the JSS URL
 checkjss_output=$(jamf checkjssconnection)
